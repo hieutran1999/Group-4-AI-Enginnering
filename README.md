@@ -53,9 +53,6 @@ Hiệu suất của mô hình cuối cùng (XGBoost) trên tập kiểm tra:
 - API gọi vào mô hình được deploy bằng Dockerfile trên Google Cloud.
 - Ứng dụng Streamlit và Model cũng được deploy cùng một máy trên Google Cloud.
 
+### **Demo video**
 
-
-
-
-
-
+Video demo chất lượng cao [Youtube](https://www.youtube.com/watch?v=VVe7XOYLy2k).
