@@ -23,6 +23,10 @@ Chọn tập hợp đặc trưng tốt nhất bằng kỹ thuật Loại bỏ Đ
 
 Source: [IBM](https://community.ibm.com/accelerators/catalog/content/Telco-customer-churn)
 
+App demo đã được deploy trên [link](https://luissalazarsalinas-churn-detection-streamlit-app-r6b54r.streamlitapp.com/)
+
+Notebook: [NoteBook](https://github.com/hieutran1999/Group-4-AI-Enginnering/blob/main/Notebook/Customer_Churn.ipynb)
+
 
 ### **Modelling**
 
